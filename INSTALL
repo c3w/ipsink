@@ -1,0 +1,14 @@
+Load ipsink.sql into a postgres database
+	username: postgres
+	password: postgres
+	Database: ipsink
+	Schema: networks
+	Tables: hosts, supernets
+	Functions: nextips_for
+
+Install codebase into your web root, with PHP and Postgres functions available
+
+Load index.php in a web browser
+
+Share and enjoy
+		
