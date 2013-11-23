@@ -1,0 +1,7 @@
+<html>
+<frameset border=0 framespacing=0 rows="120,*">
+  <frame src="nav.php" name=nav scrolling=no>
+  <frame src="list_supernets.php" name=meat>
+</frameset>
+
+</html>
